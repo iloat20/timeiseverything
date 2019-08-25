@@ -1,2 +1,3 @@
+import pprint
 msg = "Hello World"
-print(msg)
+pprint.pprint(msg)
